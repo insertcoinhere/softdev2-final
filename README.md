@@ -1,3 +1,3 @@
 # softdev2-final
 <br>
-My project on past internship
+My project on past internship, very cool
